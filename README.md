@@ -1,6 +1,6 @@
 # TAC
 Beyond Vision: Prompt Learning with Text-Augmented Cues for Out-of-Distribution Detection
-![main_structure](main.pdf)
+![main_structure](main.png)
 ## Installation
 The project is based on PyTorch.
 Below are quick steps for installation:
